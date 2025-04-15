@@ -1,0 +1,80 @@
+{
+    "os": "Linux-6.11.0-21-generic-x86_64-with-glibc2.39",
+    "python": "3.9.22",
+    "heartbeatAt": "2025-04-15T20:10:15.824318",
+    "startedAt": "2025-04-15T20:10:15.717168",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/roy/Documents/SFU/graph/CatGPT/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/luciancahil/CatGPT.git",
+        "commit": "e7bfd3c01f3e941ddf5ca459310409a2839bc535"
+    },
+    "email": "johndoe@example.com",
+    "root": "/home/roy/Documents/SFU/graph/CatGPT",
+    "host": "roy-NBLL-WXX9",
+    "username": "roy",
+    "executable": "/home/roy/anaconda3/envs/catgpt/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2221.91875,
+        "min": 1400.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400.0,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1400.0,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1397.149,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1396.734,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1861.978,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 4181.27,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 2504.867,
+            "min": 1400.0,
+            "max": 2000.0
+        },
+        {
+            "current": 1863.077,
+            "min": 1400.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 330.55860900878906,
+            "used": 193.50239944458008
+        }
+    },
+    "memory": {
+        "total": 14.99713134765625
+    }
+}
